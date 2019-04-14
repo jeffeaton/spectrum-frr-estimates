@@ -26,3 +26,6 @@ The file `model/functions.R` contains a function for preparing model frame input
 
 The file `model/fit.R` is the script used for fitting the model and saving outputs.
 
+## Analysis
+
+The script `analysis/analysis.R` contains code for reproducing all analysis, tables, and figures in the manuscript.
