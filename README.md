@@ -18,3 +18,11 @@ The script `data/spec-pop1.R` extracts population stratification from Spectrum 2
 
 The script `data/data.R` compiles survey estimates and Spectrum outputs into a dataset for analysis.
 
+## Model
+
+The file `model/model.stan` is the [Stan](https://mc-stan.org) model code.
+
+The file `model/functions.R` contains a function for preparing model frame inputs to the model.
+
+The file `model/fit.R` is the script used for fitting the model and saving outputs.
+
